@@ -15,7 +15,7 @@ I'm Dirazar Juan, a passionate 23-year-old student from Argentina, currently pur
 
   - <b>Java ☕</b>: As for backend development, I use Java along with frameworks like Springboot, ensuring robust and efficient server-side applications.
   
-  - <b>SQL 💾</b>: Good knowledge of SQL databases, using SQL Server.
+  - <b>SQL 💾</b>: Good knowledge of SQL databases, using SQL Server, OracleSQL or MySQL.
 
   - <b>Contact 📫</b> Feel free to reach me out **juani.dirazar@gmail.com** or connect with me on [LinkedIn](www.linkedin.com/in/juani-dirazar)
 </summary>
