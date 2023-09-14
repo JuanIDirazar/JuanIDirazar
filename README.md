@@ -6,17 +6,19 @@ I'm Dirazar Juan, a passionate 23-year-old student from Argentina, currently pur
 <div align="center">
   <h2>About me 🚀</h2>
 </div>
+<br>
 <!--Intro start-->
-- <b>Python 🐍</b>: I possess advanced knowledge of Python, including general programming logic and data manipulation.
+<summary>
+  - <b>Python 🐍</b>: I possess advanced knowledge of Python, including general programming logic and data manipulation.
 
-- <b>Web Development 💻</b>: I have a good understanding of HTML, CSS, and JavaScript, allowing me to create dynamic and interactive web applications.
+  - <b>Web Development 💻</b>: I have a good understanding of HTML, CSS, and JavaScript, allowing me to create dynamic and interactive web applications.
 
-- <b>Java ☕</b>: As for backend development, I use Java along with frameworks like Springboot, ensuring robust and efficient server-side applications.
+  - <b>Java ☕</b>: As for backend development, I use Java along with frameworks like Springboot, ensuring robust and efficient server-side applications.
   
-- <b>SQL 💾</b>: Good knowledge of SQL databases, using SQL Server. I have built and deployed databases to Microsoft Azure cloud service.
+  - <b>SQL 💾</b>: Good knowledge of SQL databases, using SQL Server. I have built and deployed databases to Microsoft Azure cloud service.
 
-- <b>Contact 📫</b> Feel free to reach me out **juani.dirazar@gmail.com** or connect with me on [LinkedIn](www.linkedin.com/in/juani-dirazar)
-
+  - <b>Contact 📫</b> Feel free to reach me out **juani.dirazar@gmail.com** or connect with me on [LinkedIn](www.linkedin.com/in/juani-dirazar)
+</summary>
 <!--Intro end-->
 
 <br>
