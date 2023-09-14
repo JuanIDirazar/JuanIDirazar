@@ -3,7 +3,9 @@
 
 <br>
 <div align="center">
-## About me
+  <summary>
+  <h2>About me</h2>
+  </summary>
 </div>
 <!--Intro start-->
 - 🔭
@@ -48,7 +50,9 @@
 
 <div align="center">
 <br>
-<h2>Github Stats </h2> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  <summary>
+  <h2>Github Stats </h2> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  </summary>
 <br>
 </div>
 
