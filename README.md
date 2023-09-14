@@ -23,15 +23,17 @@
 
 <br>
 <div align="center">
-  <h2 style="display:block">Skills</h2>
+  <summary>
+  <h2>Skills</h2>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
+  </summary>
 </div>
 <br>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2>Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
 
@@ -46,7 +48,7 @@
 
 <div align="center">
 <br>
-<h2 style="display:block">Github Stats </h2> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+<h2>Github Stats </h2> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 <br>
 </div>
 
