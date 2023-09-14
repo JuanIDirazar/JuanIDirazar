@@ -15,9 +15,8 @@ I'm Dirazar Juan, a passionate 23-year-old student from Argentina, currently pur
   
 - <b>SQL 💾</b>: Good knowledge of SQL databases, using SQL Server. I have built and deployed databases to Microsoft Azure cloud service.
 
-- 📫 Feel free to reach me out **juani.dirazar@gmail.com** or connect with me on [LinkedIn](www.linkedin.com/in/juani-dirazar)
+- <b>Contact 📫</b> Feel free to reach me out **juani.dirazar@gmail.com** or connect with me on [LinkedIn](www.linkedin.com/in/juani-dirazar)
 
-- 🏠 
 <!--Intro end-->
 
 <br>
